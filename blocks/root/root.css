@@ -240,7 +240,7 @@
       opacity: .3;
   }
   
-  .cover__headings {
+  .cover__heading {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -400,7 +400,7 @@
       .cover {
           margin: 66px 0 0 0;
       }
-      .cover__headings {}
+      .cover__heading {}
       .cover__title {
           margin: 0 0 0 0;
           max-width: 288px;
@@ -525,7 +525,7 @@
           display: flex;
           position: relative;
       }
-      .cover__headings {
+      .cover__heading {
           margin: 0 16px 0 16px;
           position: absolute;
       }
