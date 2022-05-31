@@ -1,0 +1,16 @@
+.cover__headings {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+@media screen and (max-width: 320px) {}
+@media screen and (min-width: 768px) {
+    .cover__headings {
+        margin: 0 16px 0 16px;
+        position: absolute;
+    }
+}
+@media screen and (min-width: 1024px) {}
+@media screen and (min-width: 1280px) {}

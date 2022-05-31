@@ -1,0 +1,47 @@
+[33mcommit 622d3dda98faba06d7cde6d95a361d16e45d7e6a[m[33m ([m[1;36mHEAD -> [m[1;32mhomePC[m[33m)[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Tue May 31 18:45:23 2022 +0300
+
+    addMeta
+
+[33mcommit ad70aaad4d2d87d86c774152de7056a77b4a0c21[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Avtonomov Anton <antonavtonomov@yandex.ru>
+Date:   Tue May 31 17:52:18 2022 +0400
+
+    add768width
+
+[33mcommit ad322e49fec8c05e7607f2e4bc1d7161f16acbbc[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Mon May 30 20:45:31 2022 +0300
+
+    finish320and1280
+
+[33mcommit 29a99bfbabd50d2eb555f078aea4dee9b48762f9[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Mon May 30 19:28:22 2022 +0300
+
+    edit1280
+
+[33mcommit 2defaa20db384ffd3ca0545b2f9180db9a7c4d47[m
+Author: Avtonomov Anton <antonavtonomov@yandex.ru>
+Date:   Mon May 30 17:43:33 2022 +0400
+
+    addadaptive
+
+[33mcommit 0fa04391959badaddf5417906578af0e5e91b5a8[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Sun May 29 21:13:53 2022 +0300
+
+    addWidth320
+
+[33mcommit a239640a333449657ea047c825fe00d4bd502050[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Sat May 28 12:31:11 2022 +0300
+
+    addBodyHtml
+
+[33mcommit c48648d206aef85cb557b1b86c3aba3fef93f7a4[m
+Author: Anton Avtonomov <antonavtonomov@yandex.ru>
+Date:   Wed May 25 16:29:59 2022 +0300
+
+    Initial commit
