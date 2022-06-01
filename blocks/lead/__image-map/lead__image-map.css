@@ -1,15 +1,8 @@
 .lead__image-map {
+    margin: 0 auto;
     max-width: 100%;
     position: absolute;
     top: 15%;
-    left: 3%;
+    left: 2%;
     z-index: 2;
 }
-
-@media screen and (min-width: 320px) {}
-
-@media screen and (min-width: 768px) {}
-
-@media screen and (min-width: 1024px) {}
-
-@media screen and (min-width: 1280px) {}

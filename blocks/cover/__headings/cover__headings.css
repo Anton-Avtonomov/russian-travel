@@ -1,24 +1,7 @@
 .cover__headings {
-    width: 560px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    grid-column: 1/2;
+    grid-row: 1/2;
     z-index: 2;
+    align-self: center;
+    justify-self: center;
 }
-
-@media screen and (min-width: 320px) {
-    .cover__headings {
-        width: 288px;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    .cover__headings {
-        width: 560px;
-    }
-}
-
-@media screen and (min-width: 1024px) {}
-
-@media screen and (min-width: 1280px) {}

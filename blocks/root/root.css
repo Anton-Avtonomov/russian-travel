@@ -1,12 +1,6 @@
   /*! Оптимизировать шрифты(сглаживание) */
   /* WRAPPER PAGE */
   
-  body {
-      margin: 0 auto;
-      padding: 0;
-      min-width: 320px;
-  }
-  
   .root {
       min-width: 320px;
       margin: 0 auto;
@@ -16,14 +10,3 @@
       overflow: hidden;
   }
   
-  @media screen and (min-width: 320px) {
-      .root {
-          min-width: 320px;
-      }
-  }
-  
-  @media screen and (min-width: 768px) {}
-  
-  @media screen and (min-width: 1024px) {}
-  
-  @media screen and (min-width: 1280px) {}
