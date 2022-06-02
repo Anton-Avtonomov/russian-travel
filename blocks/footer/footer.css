@@ -7,6 +7,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    min-height: 44px;
 }
 
 @media screen and (min-width: 320px) {

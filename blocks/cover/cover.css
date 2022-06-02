@@ -8,9 +8,13 @@
     grid-template-rows: 1fr;
 }
 
-.cover > *:nth-child(1) {
+.cover>*:nth-child(1) {
     -ms-grid-row: 1;
     -ms-grid-column: 1;
+}
+
+.cover__background:hover {
+    opacity: .8;
 }
 
 @media screen and (min-width: 320px) {

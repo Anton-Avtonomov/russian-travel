@@ -17,6 +17,22 @@
     }
 }
 
+@media screen and (min-width: 460px) {
+    .lead__title {
+        width: 350px;
+        font-size: 3.5rem;
+        line-height: 70px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .lead__title {
+        width: 500px;
+        font-size: 5rem;
+        line-height: 65px;
+    }
+}
+
 @media screen and (min-width: 768px) {
     .lead__title {
         width: 720px;
