@@ -9,10 +9,13 @@
     letter-spacing: 0em;
     text-align: center;
     border-bottom: none;
+    
 }
 
 .cover__title:hover {
     border-bottom: none;
+    text-shadow: 5px 5px 10px black;
+    color: #fff;
 }
 
 .cover__title:visited {
