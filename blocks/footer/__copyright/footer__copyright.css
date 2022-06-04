@@ -11,12 +11,13 @@
     transition-duration: 1s;
 }
 
-.footer__copyright:hover {
-    text-decoration: underline;
-}
-
 .footer__copyright:visited {
     color: grey;
+}
+.footer__copyright:hover {
+    border-bottom: 1px solid white;
+    transform: rotateY(360deg) scale(1.2);
+    color: #fff;
 }
 
 @media screen and (min-width: 320px) {

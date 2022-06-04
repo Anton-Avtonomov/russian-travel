@@ -2,7 +2,21 @@
     margin: 0 18px 0 0;
     font-size: 16px;
     line-height: 18px;
-    border-bottom: none;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition-duration: .5s;
+    -o-transition-duration: .5s;
+    transition-duration: .5s;
+    -webkit-transition-timing-function: linear;
+    -o-transition-timing-function: linear;
+    transition-timing-function: linear;
+}
+
+.footer__link:hover {
+    -webkit-transform: translate(3px, -5px) scale(1.1);
+    -ms-transform: translate(3px, -5px) scale(1.1);
+    transform: translate(3px, -5px) scale(1.1);
+
 }
 
 @media screen and (min-width: 320px) {

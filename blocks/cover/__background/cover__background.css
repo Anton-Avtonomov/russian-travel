@@ -8,8 +8,13 @@
     -ms-grid-row-span: 1;
     grid-row: 1/2;
     z-index: 1;
+    transition-duration: 1s;
 }
 
 .cover__background img {
     max-width: 100%;
+}
+
+.cover__background:hover {
+    opacity: .8;
 }

@@ -9,5 +9,5 @@
     -ms-grid-row-align: center;
     align-self: center;
     -ms-grid-column-align: center;
-    justify-self: center;
+    justify-items: center;
 }
