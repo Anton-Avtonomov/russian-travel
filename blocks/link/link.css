@@ -6,17 +6,3 @@
     -o-transition-duration: .8s;
     transition-duration: .8s;
 }
-
-.link:active {
-    font-weight: 900;
-}
-
-.link:visited {
-    color: blue;
-    border-bottom: 1px solid blue;
-}
-
-.link:hover {
-    color: red;
-    border-bottom: 1px solid red;
-}

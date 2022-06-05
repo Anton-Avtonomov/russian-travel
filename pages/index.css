@@ -14,19 +14,21 @@
 
 @import url(../blocks/link/link.css);
 
+/* блок MAIN */
+@import url(../blocks/main/main.css);
+
 /* блок HEADER */
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /* блок LEAD */
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
-@import url(../blocks/lead/__image-background/lead__image-background.css);
-@import url(../blocks/lead/__image-map/lead__image-map.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__sub-title/lead__sub-title.css);
 @import url(../blocks/lead/__title/lead__title.css);
@@ -74,3 +76,5 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__item-link/footer__item-link.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);

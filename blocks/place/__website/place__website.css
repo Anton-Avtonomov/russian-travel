@@ -1,5 +1,5 @@
 .place__website {
-    margin: 12px 0 0 0;
+    margin: 0;
     grid-area: links;
     align-self: flex-end;
 }

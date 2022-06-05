@@ -1,30 +1,19 @@
 .cover__title {
     font-weight: 900;
     margin: 0 auto;
-    display: block;
     width: 560px;
-    font-size: 4.5rem;
+    font-size: 74px;
     line-height: 76px;
     letter-spacing: 0em;
     text-align: center;
     border-bottom: none;
-    
-}
-
-.cover__title:hover {
-    border-bottom: none;
-    text-shadow: 5px 5px 10px black;
-    color: #fff;
-}
-
-.cover__title:visited {
-    color: #fff;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 320px) {
     .cover__title {
         width: 288px;
-        font-size: 2rem;
+        font-size: 32px;
         line-height: 35px;
     }
 }
@@ -32,7 +21,8 @@
 @media screen and (min-width: 768px) {
     .cover__title {
         width: 560px;
-        font-size: 4.5rem;
+        font-size: 74px;
         line-height: 76px;
     }
 }
+

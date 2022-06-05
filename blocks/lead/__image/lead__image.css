@@ -1,11 +1,24 @@
 .lead__image {
     margin: 64px auto 0 auto;
     max-width: 100%;
-    position: relative;
     -ms-grid-column-align: left;
     justify-self: left;
 }
 
-.lead__image img {
-    max-width: 100%;
+@media screen and (min-width: 320px) {
+    .lead__image {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .lead__image {
+        margin-top: 56px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image {
+        margin-top: 64px;
+    }
 }
