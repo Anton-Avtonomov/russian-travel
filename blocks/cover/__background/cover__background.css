@@ -10,7 +10,6 @@
     grid-row: 1/2;
     z-index: 1;
     transition-duration: 1s;
-    opacity: .3;
 }
 
 .cover:hover .cover__background {
