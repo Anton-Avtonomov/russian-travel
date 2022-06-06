@@ -1,20 +1,8 @@
 .footer__copyright {
     display: inline-block;
     margin: 0;
-    text-decoration: none;
-    color: #fff;
     font-size: 14px;
     line-height: 16px;
-    -webkit-transition-duration: 1s;
-    -o-transition-duration: 1s;
-    transition-duration: 1s;
-}
-
-.footer__copyright:hover {
-    border-bottom: 1px solid white;
-    -webkit-transform: rotateY(360deg) scale(1.1);
-    transform: rotateY(360deg) scale(1.1);
-    color: #fff;
 }
 
 @media screen and (min-width: 320px) {

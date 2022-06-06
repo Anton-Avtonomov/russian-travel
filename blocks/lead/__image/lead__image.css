@@ -17,8 +17,16 @@
     }
 }
 
+@media screen and (min-width: 1024px) {
+    .lead__image {
+        margin-top: 64px;
+        max-width: 928px;
+    }
+}
+
 @media screen and (min-width: 1280px) {
     .lead__image {
         margin-top: 64px;
+        max-width: 100%;
     }
 }
